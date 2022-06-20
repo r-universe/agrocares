@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "OBIC"]
+	path = OBIC
+	url = https://github.com/agrocares/open-bodem-index-calculator
+	shallow = true
+	registered = true
